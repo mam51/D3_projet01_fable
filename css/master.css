@@ -1,0 +1,99 @@
+body{
+  background: yellow;
+}
+
+
+#fable01 .main-content{
+max-width: 400px;
+margin-left: none;
+margin-right: auto;
+margin-bottom: 10vh;
+min-height: 95vh;
+}
+
+#fable01 img {
+max-width: 400px;
+margin-top: 50px;
+margin-left: none;
+margin-right: none;
+}
+
+
+
+
+
+
+#fable02{
+background: #6b7b00 url('css/images/bg_thelion.jpg') top center no-repeat;
+}
+
+#fable02 .text-content{
+max-width: 400px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10vh;
+min-height: 95vh;
+}
+
+
+
+
+
+#fable03 {
+  overflow: hidden;
+  background: #efefef url('css/images/bg_thelion.jpg');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+#fable03 .text-content{
+max-width: 400px;
+margin-left: auto;
+margin-right: none;
+margin-bottom: 10vh;
+min-height: 95vh;
+}
+
+.main-content4{
+text-align: center;
+}
+
+
+header{
+background: #fff
+background-size: cover;
+min-height: 95vh;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+border-top: 8px solid black;
+border-right: 8px solid black;
+border-bottom: 8px solid black;
+border-left: 8px solid black;
+margin-bottom: 20vh;
+}
+
+
+h2{
+  min-height: 10vh;
+  font-size: 2em;
+}
+
+h3{
+min-height: 10vh;
+font-size: 2em;
+text-align: center;
+}
+
+h4{
+min-height: 10vh;
+font-size: 2em;
+text-align:right;
+}
+
+.conclusion1 {
+  border: 2px solid;
+}
